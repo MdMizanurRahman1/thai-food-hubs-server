@@ -1,0 +1,284 @@
+[
+    {
+        "chef_picture": "https://i.postimg.cc/kgGN5qV4/portrait-beautiful-young-asian-woman-chef-cook-uniform-with-hat-yellow-isolated-background-74190-184.jpg",
+        "id": 1,
+        "chef_name": "Nongkran Daks",
+        "years_of_experience": 10,
+        "number_of_recipes": 50,
+        "likes": 1000,
+        "description": "Nongkran Daks is a Thai chef with over 10 years of experience. She is the owner and head chef of the Thai Basil restaurant in Chantilly, Virginia. Her passion for Thai cuisine stems from her upbringing in Thailand where she learned to cook from her mother and grandmother.",
+        "recipes": [
+            {
+                "recipe_name": "Tom Yum Soup",
+                "ingredients": [
+                    "lemongrass",
+                    "kaffir lime leaves",
+                    "galangal",
+                    "chilies",
+                    "fish sauce"
+                ],
+                "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Pad Thai",
+                "ingredients": [
+                    "rice noodles",
+                    "shrimp",
+                    "bean sprouts",
+                    "tofu",
+                    "eggs"
+                ],
+                "cooking_method": "1. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n5. Add fish sauce, sugar, and tamarind paste. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Green Curry",
+                "ingredients": [
+                    "coconut milk",
+                    "green curry paste",
+                    "chicken",
+                    "eggplant",
+                    "bamboo shoots"
+                ],
+                "cooking_method": "1. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://i.postimg.cc/nh1LNDV9/1000-F-62569568-Hfzy1-Ytd-ELYb95-Og8-Vw9-G7lr-OJx6p-Gaw.jpg",
+        "id": 2,
+        "chef_name": "Som Tum",
+        "years_of_experience": 12,
+        "number_of_recipes": 20,
+        "likes": 500,
+        "description": "Som Tum is a Thai chef based in Bangkok. She has over 12 years of experience in cooking and specializes in Northeastern Thai cuisine. She is known for her expertise in making papaya salad, or som tum in Thai.",
+        "recipes": [
+            {
+                "recipe_name": "Papaya Salad",
+                "ingredients": [
+                    "green papaya",
+                    "chilies",
+                    "garlic",
+                    "fish sauce",
+                    "palm sugar"
+                ],
+                "cooking_method": "1. Peel and shred green papaya. Set aside.\n2. Pound chilies and garlic in a mortar and pestle.\n3. Add green papaya, fish sauce, and palm sugar. Toss everything together.\n4. Serve with sticky rice.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Laab",
+                "ingredients": [
+                    "ground pork",
+                    "mint leaves",
+                    "shallots",
+                    "lime juice",
+                    "roasted rice powder"
+                ],
+                "cooking_method": "1. Brown ground pork in a pan. Drain.\n2. Add mint leaves, shallots, and lime juice.\n3. Sprinkle roasted rice powder. Toss everything together.\n4. Serve with lettuce leaves.",
+                "rating": 4.4
+            },
+            {
+                "recipe_name": "Khao Soi",
+                "ingredients": [
+                    "chicken",
+                    "egg noodles",
+                    "coconut milk",
+                    "curry paste",
+                    "crispy noodles"
+                ],
+                "cooking_method": "1. Heat curry paste in a pot. Add chicken and cook until browned.\n2. Add coconut milk and simmer until chicken is tender.\n3. Boil egg noodles until cooked. Drain.\n4. Serve chicken curry over noodles. Top with crispy noodles.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://i.postimg.cc/TY0VJp8Q/asian-people-having-dinner-party-23-2149552649.jpg",
+        "id": 3,
+        "chef_name": "Duang Songvisava",
+        "years_of_experience": 15,
+        "number_of_recipes": 50,
+        "likes": 600,
+        "description": "Duangporn Songvisava is a Thai chef based in Bangkok. He has over 15 years of experience in cooking and is the co-founder of Bo.lan, a restaurant that specializes in Thai cuisine made from locally-sourced ingredients.",
+        "recipes": [
+            {
+                "recipe_name": "Gaeng Hang Lay",
+                "ingredients": [
+                    "pork belly",
+                    "shallots",
+                    "garlic",
+                    "dried chilies",
+                    "tamarind paste"
+                ],
+                "cooking_method": "1. Brown pork belly in a pot. Set aside.\n2. Cook shallots, garlic, and dried chilies in the same pot.\n3. Add pork belly, water, and tamarind paste. Simmer until pork is tender.\n4. Serve hot with steamed rice.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Yum Hed",
+                "ingredients": [
+                    "mushrooms",
+                    "shallots",
+                    "lemongrass",
+                    "mint leaves",
+                    "lime juice"
+                ],
+                "cooking_method": "1. Cook mushrooms in a pot.\n2. Add shallots, lemongrass, and mint leaves.\n3. Season with fish sauce and lime juice.\n4. Serve hot or cold.",
+                "rating": 4.3
+            },
+            {
+                "recipe_name": "Tom Saap",
+                "ingredients": [
+                    "pork ribs",
+                    "lemongrass",
+                    "galangal",
+                    "kaffir lime leaves",
+                    "chilies"
+                ],
+                "cooking_method": "1. Boil pork ribs, lemongrass, galangal, and kaffir lime leaves in water.\n2. Add chilies and fish sauce.\n3. Serve hot with lime wedges.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://i.postimg.cc/158mJj2T/male-chef-with-apron-cooking-pasta-23-2148763166.jpg",
+        "id": 4,
+        "chef_name": "Chu Kittichai",
+        "years_of_experience": 20,
+        "number_of_recipes": 100,
+        "likes": 800,
+        "description": "Ian Kittichai is a Thai celebrity chef who has over 20 years of experience in cooking. He is known for his modern take on Thai cuisine and has worked in several Michelin-starred restaurants around the world.",
+        "recipes": [
+            {
+                "recipe_name": "Green Curry Chicken",
+                "ingredients": [
+                    "chicken",
+                    "green curry paste",
+                    "coconut milk",
+                    "eggplant",
+                    "kaffir lime leaves"
+                ],
+                "cooking_method": "1. Cook chicken in a pan. Set aside.\n2. Cook green curry paste in a pot. Add coconut milk and bring to a boil.\n3. Add chicken, eggplant, and kaffir lime leaves. Simmer until chicken is cooked.\n4. Serve hot with steamed rice.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Som Tum",
+                "ingredients": [
+                    "green papaya",
+                    "carrots",
+                    "long beans",
+                    "cherry tomatoes",
+                    "peanuts"
+                ],
+                "cooking_method": "1. Shred green papaya and carrots.\n2. Pound chili, garlic, and palm sugar in a mortar.\n3. Add fish sauce, lime juice, and shrimp paste. Mix well.\n4. Add shredded vegetables, long beans, and cherry tomatoes. Mix well.\n5. Serve cold with chopped peanuts.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Pad See Ew",
+                "ingredients": [
+                    "rice noodles",
+                    "beef",
+                    "broccoli",
+                    "dark soy sauce",
+                    "oyster sauce"
+                ],
+                "cooking_method": "1. Soak rice noodles in warm water for 30 minutes.\n2. Cook beef in a pan. Set aside.\n3. Cook broccoli in the same pan. Add noodles, dark soy sauce, and oyster sauce. Stir-fry until noodles are cooked.\n4. Add beef back to the pan. Serve hot.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://i.postimg.cc/LsWKY968/smiley-female-chef-cutting-vegetables-kitchen-23-2148763096.jpg",
+        "id": 5,
+        "chef_name": "Pim Tecvivit",
+        "years_of_experience": 15,
+        "number_of_recipes": 50,
+        "likes": 500,
+        "description": "Pim Techamuanvivit is a Thai chef who owns the Kin Khao restaurant in San Francisco. She has been cooking for over 15 years and is known for her authentic Thai flavors.",
+        "recipes": [
+            {
+                "recipe_name": "Tom Kha Gai",
+                "ingredients": [
+                    "chicken",
+                    "coconut milk",
+                    "lemongrass",
+                    "galangal",
+                    "lime leaves"
+                ],
+                "cooking_method": "1. Boil coconut milk in a pot. Add lemongrass, galangal, and lime leaves. Boil for 5 minutes.\n2. Add chicken and cook until it is cooked through.\n3. Serve hot with steamed rice.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Khao Soi",
+                "ingredients": [
+                    "chicken",
+                    "yellow curry paste",
+                    "coconut milk",
+                    "noodles",
+                    "bean sprouts"
+                ],
+                "cooking_method": "1. Cook chicken in a pan. Set aside.\n2. Cook yellow curry paste in a pot. Add coconut milk and bring to a boil.\n3. Add chicken and noodles. Simmer until noodles are cooked.\n4. Serve hot with bean sprouts and lime wedges.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Pad Thai",
+                "ingredients": [
+                    "rice noodles",
+                    "shrimp",
+                    "tofu",
+                    "bean sprouts",
+                    "peanuts"
+                ],
+                "cooking_method": "1. Soak rice noodles in warm water for 30 minutes.\n2. Cook shrimp in a pan. Set aside.\n3. Cook tofu and bean sprouts in the same pan. Add noodles and stir-fry until noodles are cooked.\n4. Add shrimp and chopped peanuts. Serve hot with lime wedges.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://i.postimg.cc/LXzpcd24/cook-pouring-sauce-big-plate-with-salad-23-2148040165.jpg",
+        "id": 6,
+        "chef_name": "Liang Cheng",
+        "years_of_experience": 10,
+        "number_of_recipes": 70,
+        "likes": 500,
+        "description": "Pailin Chongchitnant is a Thai chef and author who has over 10 years of experience in cooking. He is known for her YouTube cooking channel 'Hot Thai Kitchen' and has published a cookbook of the same name.",
+        "recipes": [
+            {
+                "recipe_name": "Tom Yum Goong",
+                "ingredients": [
+                    "shrimp",
+                    "lemongrass",
+                    "kaffir lime leaves",
+                    "galangal",
+                    "chili peppers"
+                ],
+                "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add shrimp and cook until pink.\n3. Add chili peppers, fish sauce, and lime juice. Simmer for a few minutes.\n4. Serve hot.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Massaman Curry",
+                "ingredients": [
+                    "beef",
+                    "potatoes",
+                    "massaman curry paste",
+                    "coconut milk",
+                    "peanuts"
+                ],
+                "cooking_method": "1. Cook beef in a pan. Set aside.\n2. Cook potatoes in the same pan. Set aside.\n3. Cook massaman curry paste in a pot. Add coconut milk and bring to a boil.\n4. Add beef and potatoes. Simmer until beef is cooked.\n5. Serve hot with chopped peanuts and steamed rice.",
+                "rating": 4.4
+            },
+            {
+                "recipe_name": "Mango Sticky Rice",
+                "ingredients": [
+                    "sticky rice",
+                    "mango",
+                    "coconut milk",
+                    "palm sugar",
+                    "salt"
+                ],
+                "cooking_method": "1. Soak sticky rice in water for at least 2 hours.\n2. Steam the rice until cooked.\n3. Cook coconut milk, palm sugar, and salt in a pot.\n4. Serve the rice with sliced mango and the coconut sauce.",
+                "rating": 4.3
+            }
+        ]
+    }
+]
