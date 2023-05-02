@@ -31,7 +31,7 @@
                     "tofu ",
                     "eggs "
                 ],
-                "cooking_method": "1. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n5. Add fish sauce, sugar, and tamarind paste. Serve hot.",
+                "cooking_method": "1. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.",
                 "rating": 4.8
             },
             {
@@ -44,7 +44,7 @@
                     "eggplant ",
                     "bamboo shoots "
                 ],
-                "cooking_method": "1. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
+                "cooking_method": "1. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.",
                 "rating": 4.2
             }
         ]
@@ -56,7 +56,7 @@
         "years_of_experience": 12,
         "number_of_recipes": 20,
         "likes": 500,
-        "description": "Som Tum is a Thai chef based in Bangkok. She has over 12 years of experience in cooking and specializes in Northeastern Thai cuisine. She is known for her expertise in making papaya salad, or som tum in Thai.",
+        "description": "Som Tum is a Thai chef based in Bangkok. She has over 12 years of experience in cooking and specializes in Northeastern Thai cuisine. She is known for her expertise in making papaya salad.",
         "recipes": [
             {
                 "_id": 1,
@@ -68,7 +68,7 @@
                     "fish sauce ",
                     "palm sugar "
                 ],
-                "cooking_method": "1. Peel and shred green papaya. Set aside.\n2. Pound chilies and garlic in a mortar and pestle.\n3. Add green papaya, fish sauce, and palm sugar. Toss everything together.\n4. Serve with sticky rice.",
+                "cooking_method": "1. Peel and shred green papaya. Set aside.\n2. Pound chilies and garlic in a mortar and pestle.\n3. Add green papaya, fish sauce, and palm sugar. Toss everything together.",
                 "rating": 4.7
             },
             {
@@ -94,7 +94,7 @@
                     "curry paste ",
                     "crispy noodles"
                 ],
-                "cooking_method": "1. Heat curry paste in a pot. Add chicken and cook until browned.\n2. Add coconut milk and simmer until chicken is tender.\n3. Boil egg noodles until cooked. Drain.\n4. Serve chicken curry over noodles. Top with crispy noodles.",
+                "cooking_method": "1. Heat curry paste in a pot. Add chicken and cook until browned.\n2. Add coconut milk and simmer until chicken is tender.\n3. Boil egg noodles until cooked. Drain.",
                 "rating": 4.6
             }
         ]
@@ -118,7 +118,7 @@
                     "dried chilies ",
                     "tamarind paste "
                 ],
-                "cooking_method": "1. Brown pork belly in a pot. Set aside.\n2. Cook shallots, garlic, and dried chilies in the same pot.\n3. Add pork belly, water, and tamarind paste. Simmer until pork is tender.\n4. Serve hot with steamed rice.",
+                "cooking_method": "1. Brown pork belly in a pot. Set aside.\n2. Cook shallots, garlic, and dried chilies in the same pot.\n3. Add pork belly, water, and tamarind paste. Simmer until pork is tender.",
                 "rating": 4.9
             },
             {
@@ -168,7 +168,7 @@
                     "eggplant ",
                     "kaffir lime leaves"
                 ],
-                "cooking_method": "1. Cook chicken in a pan. Set aside.\n2. Cook green curry paste in a pot. Add coconut milk and bring to a boil.\n3. Add chicken, eggplant, and kaffir lime leaves. Simmer until chicken is cooked.\n4. Serve hot with steamed rice.",
+                "cooking_method": "1. Cook chicken in a pan. Set aside.\n2. Cook green curry paste in a pot. Add coconut milk and bring to a boil.\n3. Add chicken, eggplant, and kaffir lime leaves. ",
                 "rating": 4.8
             },
             {
@@ -181,7 +181,7 @@
                     "cherry tomatoes ",
                     "peanuts "
                 ],
-                "cooking_method": "1. Shred green papaya and carrots.\n2. Pound chili, garlic, and palm sugar in a mortar.\n3. Add fish sauce, lime juice, and shrimp paste. Mix well.\n4. Add shredded vegetables, long beans, and cherry tomatoes. Mix well.\n5. Serve cold with chopped peanuts.",
+                "cooking_method": "1. Shred green papaya and carrots.\n2. Pound chili, garlic, and palm sugar in a mortar.\n3. Add fish sauce, lime juice, and shrimp paste. Mix well.\n4. Add shredded vegetables, and cherry tomatoes. ",
                 "rating": 4.2
             },
             {
@@ -194,7 +194,7 @@
                     "dark soy sauce ",
                     "oyster sauce "
                 ],
-                "cooking_method": "1. Soak rice noodles in warm water for 30 minutes.\n2. Cook beef in a pan. Set aside.\n3. Cook broccoli in the same pan. Add noodles, dark soy sauce, and oyster sauce. Stir-fry until noodles are cooked.\n4. Add beef back to the pan. Serve hot.",
+                "cooking_method": "1. Soak rice noodles in warm water for 30 minutes.\n2. Cook beef in a pan. Set aside.\n3. Cook broccoli in the same pan. Add noodles, dark soy sauce, and oyster sauce. ",
                 "rating": 4.5
             }
         ]
@@ -231,7 +231,7 @@
                     "noodles ",
                     "bean sprouts "
                 ],
-                "cooking_method": "1. Cook chicken in a pan. Set aside.\n2. Cook yellow curry paste in a pot. Add coconut milk and bring to a boil.\n3. Add chicken and noodles. Simmer until noodles are cooked.\n4. Serve hot with bean sprouts and lime wedges.",
+                "cooking_method": "1. Cook chicken in a pan. Set aside.\n2. Cook yellow curry paste in a pot. Add coconut milk and bring to a boil.\n3. Add chicken and noodles. Simmer until noodles are cooked.",
                 "rating": 4.9
             },
             {
@@ -244,7 +244,7 @@
                     "bean sprouts ",
                     "peanuts "
                 ],
-                "cooking_method": "1. Soak rice noodles in warm water for 30 minutes.\n2. Cook shrimp in a pan. Set aside.\n3. Cook tofu and bean sprouts in the same pan. Add noodles and stir-fry until noodles are cooked.\n4. Add shrimp and chopped peanuts. Serve hot with lime wedges.",
+                "cooking_method": "1. Soak rice noodles in warm water for 30 minutes.\n2. Cook shrimp in a pan. Set aside.\n3. Cook tofu and bean sprouts in the same pan. Add noodles and stir-fry until noodles are cooked.",
                 "rating": 4.3
             }
         ]
@@ -268,7 +268,7 @@
                     "galangal ",
                     "chili peppers "
                 ],
-                "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add shrimp and cook until pink.\n3. Add chili peppers, fish sauce, and lime juice. Simmer for a few minutes.\n4. Serve hot.",
+                "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add shrimp and cook until pink.\n3. Add chili peppers, fish sauce, and lime juice. Simmer for a few minutes.",
                 "rating": 4.6
             },
             {
@@ -281,7 +281,7 @@
                     "coconut milk ",
                     "peanuts "
                 ],
-                "cooking_method": "1. Cook beef in a pan. Set aside.\n2. Cook potatoes in the same pan. Set aside.\n3. Cook massaman curry paste in a pot. Add coconut milk and bring to a boil.\n4. Add beef and potatoes. Simmer until beef is cooked.\n5. Serve hot with chopped peanuts and steamed rice.",
+                "cooking_method": "1. Cook beef in a pan. Set aside.\n2. Cook potatoes in the same pan. Set aside.\n3. Cook massaman curry paste in a pot. Add coconut milk and bring to a boil.\n4. Add beef and potatoes. ",
                 "rating": 4.4
             },
             {
@@ -294,7 +294,7 @@
                     "palm sugar ",
                     "salt"
                 ],
-                "cooking_method": "1. Soak sticky rice in water for at least 2 hours.\n2. Steam the rice until cooked.\n3. Cook coconut milk, palm sugar, and salt in a pot.\n4. Serve the rice with sliced mango and the coconut sauce.",
+                "cooking_method": "1. Soak sticky rice in water for at least 2 hours.\n2. Steam the rice until cooked.\n3. Cook coconut milk, palm sugar, and salt in a pot.\n4. Serve the rice with sliced mango ",
                 "rating": 4.3
             }
         ]
