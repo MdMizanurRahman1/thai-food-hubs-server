@@ -69,7 +69,7 @@
                     "palm sugar "
                 ],
                 "cooking_method": "1. Peel and shred green papaya. Set aside.\n2. Pound chilies and garlic in a mortar and pestle.\n3. Add green papaya, fish sauce, and palm sugar. Toss everything together.",
-                "rating": 4.7
+                "rating": 4.0
             },
             {
                 "_id": 2,
@@ -119,7 +119,7 @@
                     "tamarind paste "
                 ],
                 "cooking_method": "1. Brown pork belly in a pot. Set aside.\n2. Cook shallots, garlic, and dried chilies in the same pot.\n3. Add pork belly, water, and tamarind paste. Simmer until pork is tender.",
-                "rating": 4.9
+                "rating": 3.9
             },
             {
                 "_id": 2,
